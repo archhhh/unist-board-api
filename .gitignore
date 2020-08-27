@@ -1,2 +1,4 @@
 deps/
 __pycache__
+data/
+mongod.log
